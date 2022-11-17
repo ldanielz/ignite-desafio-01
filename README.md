@@ -22,7 +22,7 @@
 </p>
 <br>
 <div align="center" id="top"> 
-  <img width="600" src="https://github.com/ldanielz/ignite-desafio-01/blob/main/previewProjectFigma.png?raw=true" alt="Layout do projeto" />
+  <img width="600" src="https://github.com/ldanielz/ignite-desafio-01/blob/f50ad837be9a8f1c4219739dadeaf9a049cf76db/public/previewProjectFigma.png" alt="Layout do projeto" />
   &#xa0;  
 </div>
 
