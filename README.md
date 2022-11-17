@@ -1,3 +1,4 @@
+
 <h1 align="center">Desafio 01 :: Praticando os conceitos do ReactJS</h1>
 
 <p align="center">
@@ -8,6 +9,8 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/ldanielz/ignite-desafio-01?color=56BEB8" />
 </p>
 
+
+
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Características</a> &#xa0; | &#xa0;
@@ -17,6 +20,11 @@
   <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/ldanielz" target="_blank">Autor</a>
 </p>
+<br>
+<div align="center" id="top"> 
+  <img width="600" src="https://github.com/ldanielz/ignite-desafio-01/blob/main/previewProjectFigma.png?raw=true" alt="Layout do projeto" />
+  &#xa0;  
+</div>
 
 <br>
 
