@@ -28,18 +28,18 @@
 
 <br>
 
-## :dart: Sobre ##
+## Sobre ##
 
 Este projeto em React é uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
-## :sparkles: Características ##
+## Características ##
 
 :heavy_check_mark: Adicionar uma nova tarefa;\
 :heavy_check_mark: Marcar e desmarcar uma tarefa como concluída;\
 :heavy_check_mark: Remover uma tarefa da listagem;\
 :heavy_check_mark: Mostrar o progresso de conclusão das tarefas;
 
-## :rocket: Technologies ##
+## Tecnologias ##
 
 As seguintes ferramentas foram utilizadas neste projeto:
 - [React](https://pt-br.reactjs.org/)
@@ -47,10 +47,10 @@ As seguintes ferramentas foram utilizadas neste projeto:
 - [ViteJs](https://vitejs.dev/)
 - [phosphor-react-native](https://github.com/duongdev/phosphor-react-native#readme)
 
-## :white_check_mark: Requerimentos ##
+## Requerimentos ##
 Antes de iniciar, você precisa ter [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instalados.
 
-## :checkered_flag: Iniciando ##
+## Iniciando ##
 ```bash
 # Clone este projeto
 $ git clone https://github.com/ldanielz/NLW-COPA-2022.git
